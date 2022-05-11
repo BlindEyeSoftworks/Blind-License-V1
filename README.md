@@ -77,7 +77,7 @@ Product A can implement those changes into their original works so that all user
 of Product A can continue to receive quality services. Providers of Product B are
 not free to modify the name or branding of Product A, even after modifications,
 nor do modifications of Product A give exclusive ownership of Product A or the ability
-publish Product A as their own unique works.
+to publish Product A as their own unique works.
 
 1.2 Selling & Distributing
 
